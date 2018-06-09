@@ -1,0 +1,3 @@
+C:\Users\Kaiwen Song\Desktop\Github Projects\BattleTanks_UE\BattleTanks\Source\BattleTanks\BattleTanks.Build.cs
+C:\Users\Kaiwen Song\Desktop\Github Projects\BattleTanks_UE\BattleTanks\Source\BattleTanks.Target.cs
+C:\Users\Kaiwen Song\Desktop\Github Projects\BattleTanks_UE\BattleTanks\Source\BattleTanksEditor.Target.cs
